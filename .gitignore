@@ -1,0 +1,6 @@
+/node_modules
+/.vscose
+/public/dist/
+/src/playground/
+.env.development
+.env.test
